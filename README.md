@@ -19,7 +19,6 @@
   <img alt="ELECTRA" src="https://img.shields.io/badge/-ELECTRA-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img alt="NL2SQL" src="https://img.shields.io/badge/-NL2SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="LoRA PEFT" src="https://img.shields.io/badge/-LoRA_PEFT-8A2BE2?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Prompt Engineering" src="https://img.shields.io/badge/-Prompt_Engineering-000000?style=flat-square&logo=openai&logoColor=white" />
   <!-- CV -->
   <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-00BFFF?style=flat-square&logo=yolo&logoColor=white" />
   <img alt="ResNet" src="https://img.shields.io/badge/-ResNet-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -27,7 +26,6 @@
   <img alt="OCR" src="https://img.shields.io/badge/-OCR-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
   <!-- Generative AI -->
   <img alt="GAN" src="https://img.shields.io/badge/-GAN-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Stable Diffusion" src="https://img.shields.io/badge/-Stable_Diffusion-000000?style=flat-square&logo=stability-ai&logoColor=white" />
   <!-- LangGraph -->
   <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -50,3 +48,12 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+## 📬 Contacts
+
+<a href="https://lef-0213.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-0ea5e9?style=flat-square&logo=github&logoColor=black" />
+</a>
+<a href="https://www.notion.so/2dc84389e07180b5aa79e1ca336aef2e" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black" />
+</a>
