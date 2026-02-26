@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**LeF-0213/LeF-0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats 카드
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🔥 연속 커밋 스트릭
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 트로피
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+
+## 🛠 사용 언어 통계
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 사용 기술 스택
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
