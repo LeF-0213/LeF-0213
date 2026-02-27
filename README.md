@@ -1,3 +1,60 @@
+<p align="center">
+  <!-- 👉 여기를 네가 만든 배너 이미지로 교체하면 됨 -->
+  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80" 
+       alt="Bella Space Banner" 
+       width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm LeF-0213 👋</h1>
+<p align="center">
+  🤖 AI Modeling · Data Analysis · Full-Stack Dev &nbsp;|&nbsp; From Problem Definition to Working Product
+</p>
+
+---
+
+<p align="center">
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=bellalotusjang&color=7b2cbf&style=flat-square" />
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/bellalotusjang?style=flat-square&color=ffd166&label=Stars" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/bellalotusjang?style=flat-square&color=06d6a0&label=Followers" />
+</p>
+
+---
+
+## 👋 About Me
+
+I structure problems with data and implement solutions with AI.
+I have repeatedly practiced defining problems and seeing them through to implementation, grounded in AI modeling, data analysis, and full-stack web development.
+I focus on interpreting real-world challenges through data and building things that actually work using AI and code.
+My goal is to be a developer who can explain not just what the technology does, but why it's needed and how it works — from problem definition all the way to a running product.
+AI Modeling Data Analysis Full-Stack Dev Problem Solving Data-Driven Curiosity
+
+---
+
+## 🌟 A Little More About Me
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://static.wikia.nocookie.net/hollowknight_gamepedia/images/7/79/Knight_Artwork.png" 
+           alt="Mascot" 
+           width="140">
+    </td>
+    <td>
+
+- 🧠 **Why-first thinker** – I never stop at "how"; I always dig into "why it works this way"
+- 🔗 I see AI modeling, data analysis, and full-stack dev as **one connected pipeline**, not separate skills
+- 🛠️ I don't stop at prototypes – I iterate until it becomes something that **actually works in production**
+- 🚀 Give me an AI / Vision / Data project and I'll go **all-in for the long run**
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Skills & Tools
 <p>
   <!-- NLP & LLM -->
@@ -35,17 +92,30 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+---
+
 ![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg)
 
+---
+
 ## 🔥 연속 커밋 스트릭
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeF-0213)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=LeF-0213" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
 
 ## 📬 Contacts
 
-<a href="https://lef-0213.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-0ea5e9?style=flat-square&logo=github&logoColor=black" />
-</a>
-<a href="https://www.notion.so/2dc84389e07180b5aa79e1ca336aef2e" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black" />
-</a>
+<p align="center">
+  <a href="https://lef-0213.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-0ea5e9?style=flat-square&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.notion.so/2dc84389e07180b5aa79e1ca336aef2e" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black" />
+  </a>
+</p>
