@@ -1,16 +1,8 @@
-
-##  GitHub Stats 카드
 ![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg)
 
 ## 🔥 연속 커밋 스트릭
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
-
-## 🏆 트로피
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
-
-## 📊 사용 언어 통계
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeF-0213)](https://git.io/streak-stats)
 
 ## 🛠️ Stacks
 <p>
