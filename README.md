@@ -1,10 +1,4 @@
-![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg)
-
-## 🔥 연속 커밋 스트릭
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeF-0213)](https://git.io/streak-stats)
-
-## 🛠️ Stacks
+## 🛠️ Skills & Tools
 <p>
   <!-- NLP & LLM -->
   <img alt="BERT" src="https://img.shields.io/badge/-BERT-FF6F00?style=flat-square&logo=google&logoColor=white" />
@@ -40,6 +34,12 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg)
+
+## 🔥 연속 커밋 스트릭
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeF-0213)](https://git.io/streak-stats)
 
 ## 📬 Contacts
 
