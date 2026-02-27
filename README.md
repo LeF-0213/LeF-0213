@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- 👉 여기를 네가 만든 배너 이미지로 교체하면 됨 -->
   <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80" 
-       alt="Bella Space Banner" 
+       alt="Banner" 
        width="100%" />
 </p>
 
@@ -38,7 +37,7 @@ AI Modeling Data Analysis Full-Stack Dev Problem Solving Data-Driven Curiosity
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://static.wikia.nocookie.net/hollowknight_gamepedia/images/7/79/Knight_Artwork.png" 
+      <img src="https://github.com/user-attachments/assets/e147736a-d533-4831-8142-46c03144a8e2" 
            alt="Mascot" 
            width="140">
     </td>
