@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80" 
        alt="Banner" 
        width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm LeF-0213 👋</h1>
 <p align="center">
