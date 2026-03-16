@@ -93,19 +93,19 @@ AI Modeling Data Analysis Full-Stack Dev Problem Solving Data-Driven Curiosity
 
 ---
 
-<p>
-  <img src='https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg' />
-  <img src='https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg' />
-</p>
 
----
+## 📊 GitHub Stats & Streak
 
-## 🔥 연속 커밋 스트릭
-
+<div align="center">
+  <img src='https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/overview.svg' width="40%" />
+  <img src='https://raw.githubusercontent.com/LeF-0213/github-stats-transparent/output/generated/languages.svg' width="40%" />
+  
+  <br/>
+  
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LeF-0213" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=LeF-0213&theme=radical&background=00000000&ring=7B2CBF&fire=7B2CBF" alt="GitHub Streak" width="60%" />
   </a>
-
+</div>
 
 ---
 
