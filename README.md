@@ -91,6 +91,24 @@ AI Modeling Data Analysis Full-Stack Dev Problem Solving Data-Driven Curiosity
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+
+---
+
+## Key Projects
+
+<div align="center">
+  <!-- 프로젝트 1: Runnerway -->
+  <a href="https://github.com/LeF-0213/runnerway_back">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_back&theme=github_dark" />
+  </a>
+  <!-- 프로젝트 2: AI Meeting Manager (레포지토리 명에 맞춰 수정하세요) -->
+  <a href="https://github.com/LeF-0213/runnerway_front">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_front&theme=github_dark" />
+  </a>
+</div>
+
+<br/>
+
 ---
 
 
