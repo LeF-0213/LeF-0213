@@ -97,17 +97,37 @@ AI Modeling Data Analysis Full-Stack Dev Problem Solving Data-Driven Curiosity
 ## Key Projects
 
 <div align="center">
-  <!-- 프로젝트 1: Runnerway -->
+  <a href="https://github.com/LeF-0213/workb-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=workb_backend&theme=github_dark" />
+  <a href="https://github.com/LeF-0213/workb-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=workb_frontend&theme=github_dark" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/LeF-0213/runnerway_back">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_back&theme=github_dark" />
   </a>
-  <!-- 프로젝트 2: AI Meeting Manager (레포지토리 명에 맞춰 수정하세요) -->
   <a href="https://github.com/LeF-0213/runnerway_front">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_front&theme=github_dark" />
   </a>
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://github.com/LeF-0213/TripCanvas-Client">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=TripCanvas-Client&theme=github_dark" />
+  </a>
+  <a href="https://github.com/LeF-0213/TripCanvas-Server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=TripCanvas-Servert&theme=github_dark" />
+  </a>
+</div>
+
+<br/>
+
 
 ---
 
