@@ -89,37 +89,52 @@ AI 모델링, 데이터 분석, 풀스택 웹 개발을 기반으로 문제를 �
 
 ---
 
-## 주요 프로젝트
+## 🚀 주요 프로젝트
 
 <div align="center">
-  <a href="https://github.com/LeF-0213/workb-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=workb_backend&theme=github_dark" />
-  </a>
-  <a href="https://github.com/LeF-0213/workb-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=workb_frontend&theme=github_dark" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/LeF-0213/runnerway_back">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_back&theme=github_dark" />
-  </a>
-  <a href="https://github.com/LeF-0213/runnerway_front">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=runnerway_front&theme=github_dark" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/LeF-0213/TripCanvas-Client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=TripCanvas-Client&theme=github_dark" />
-  </a>
-  <a href="https://github.com/LeF-0213/TripCanvas-Server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeF-0213&repo=TripCanvas-Servert&theme=github_dark" />
-  </a>
+<table width="100%">
+  <tr>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/LeF-0213/workb-backend">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=workb-backend&theme=github_dark&show_owner=true&hide_description=true" width="100%" />
+      </a>
+    </td>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/LeF-0213/workb-frontend">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=workb-frontend&theme=github_dark&show_owner=true&hide_description=true" width="100%" />
+      </a>
+    </td>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/LeF-0213/workb-asr-server">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=workb-asr-server&theme=github_dark&show_owner=true&hide_description=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="3" align="center">
+      <a href="https://github.com/LeF-0213/runnerway_back">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=runnerway_back&theme=github_dark&show_owner=true&hide_description=true" width="270" />
+      </a>
+    </td>
+    <td valign="top" colspan="3" align="center">
+      <a href="https://github.com/LeF-0213/runnerway_front">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=runnerway_front&theme=github_dark&show_owner=true&hide_description=true" width="270" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="3" align="center">
+      <a href="https://github.com/LeF-0213/TripCanvas-Client">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=TripCanvas-Client&theme=github_dark&show_owner=true&hide_description=true" width="270" />
+      </a>
+    </td>
+    <td valign="top" colspan="3" align="center">
+      <a href="https://github.com/LeF-0213/TripCanvas-Server">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=LeF-0213&repo=TripCanvas-Server&theme=github_dark&show_owner=true&hide_description=true" width="270" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
