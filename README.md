@@ -4,7 +4,7 @@
        width="100%" />
 </p> -->
 
-<h1 align="center">안녕하세요, LeF-0213입니다 👋</h1>
+<h1 align="center">안녕하세요, 끝까지 포기하지 않는 개발자 황예은 입니다 👋</h1>
 <p align="center">
   🤖 AI 모델링 · 데이터 분석 · 풀스택 개발 &nbsp;|&nbsp; End-to-End 개발자
 </p>
